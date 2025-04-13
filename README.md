@@ -2,5 +2,6 @@
 
 ## Nome e Informações do Aluno
 - **Nome**: Fabiano Henrique Chou
-- **Curso**: CCOMP3
+- **Turma**: NACCOMP3
 - **RA**: 24025991
+- **Curso**: Ciência da Computação
